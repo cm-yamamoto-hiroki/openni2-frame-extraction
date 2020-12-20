@@ -4,12 +4,12 @@ A Google Colab example to extract color and depth frames from .oni files.
 
 You can read the .oni files using OpenNi2 Driver (saved in lib/ directory).
 
-## Dependency
+## Requirements
 - OpenCV
 - Numpy
 - Openni2
 
-All dependency are already supported by Google Colab, except openni2 library.
+All requirements are already supported by Google Colab, except openni2 library.
 
 ## Tested Datasets
 - TVPR (https://vrai.dii.univpm.it/re-id-dataset)
